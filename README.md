@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My nanme is Michelle, but you can call me Mic. My pronouns are she/her, and I recently moved to Pittsburgh from Hawaii! I'm currently working on getting to know GitHub. 
 
 <!--
 **michelle98hanna/michelle98hanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
