@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently working on learning hot to use GitHub.
-My pronouns are she/her, and I recently moved here from Hawaii!
+
